@@ -1,17 +1,17 @@
-const logotext = "{Initials Here}";
+const logotext = "B-Tech";
 const meta = {
-    title: "{Aquarius Blake}",
-    description: "I'm {Aquarius Blake}, a technologist and cybersecurity enthuist.",
+    title: "Aquarius Blake",
+    description: "I'm Aquarius Blake, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Aquarius Blake}",
+    title: "Hi, I'm Aquarius Blake",
     animated: {
         first: "Technologist",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Data Analyst",
         fourth: "Programmer",
-        fifth: "Malware Developer",
+        fifth: "Software Developer",
         sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
@@ -21,17 +21,17 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "I am a detail-oriented and adaptive team player with strong organizational skills. I have the ability to handle multiple projects with a high degree of accuracy. I am a self-motivated individual seeking a full-time/Part-time position that oﬀers professional challenges utilizing problem-solving skills. I have the willingness to take on added responsibilities and also learn on the job to meet team goals.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "National Service Personnel",
+        where: "Ministry of Energy",
+        date: "2022-2023",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
+        jobtitle: "Software Intern",
+        where: "BData Systems",
+        date: "2021",
     },
     {
         jobtitle: "Example 3",
@@ -53,7 +53,7 @@ const skills = [{
     },
     
     {
-        name: "Bash",
+        name: "Dart/Flutter",
     },
 
     {
