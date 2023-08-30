@@ -1,18 +1,18 @@
 const logotext = "B-Tech";
 const meta = {
     title: "Aquarius Blake",
-    description: "I'm Aquarius Blake, a technologist and cybersecurity enthuist.",
+    description: "I'm Aquarius Blake, a technologist and software engineering enthuist.",
 };
 
 const introdata = {
     title: "Hi, I'm Aquarius Blake",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Data Analyst",
-        fourth: "Programmer",
-        fifth: "Software Developer",
-        sixth: "Analyst",
+        first: "A Technologist",
+        second: "A Visionary",
+        third: "A Data Analyst",
+        fourth: "A Programmer",
+        fifth: "A Software Developer",
+        sixth: "And many more...",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
