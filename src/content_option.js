@@ -65,11 +65,11 @@ const skills = [{
     },
 
     {
-        name: "Web-Exploitation",
+        name: "Software Customization",
     },
 
     {
-        name: "Network Exploitation",
+        name: "Technical Writing",
     },
 ];
 
