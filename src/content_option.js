@@ -75,8 +75,8 @@ const skills = [{
 
 const dataportfolio = [{
         img: "https://raw.githubusercontent.com/Aquarius-blake/Images/main/Portfolio/signin%20copy1.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "The Hive is a social media app project making use of a Firebase back-end and Flutter front-end UI. Both group and private chats employ end-to-end encryption. The goal of this project is to oﬀer a social platform that can be completely customized while maintaining its simplicity and security. Along with the traditional bright and dark theme, we intend to provide user- customizable themes",
+        link: "https://github.com/Aquarius-blake/The_Hive",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
