@@ -40,7 +40,8 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
+const skills = [
+    {
         name: "Python",
     },
     
