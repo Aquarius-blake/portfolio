@@ -71,6 +71,9 @@ const skills = [{
     {
         name: "Technical Writing",
     },
+    {
+        name: "Graphic Design",
+    },
 ];
 
 const dataportfolio = [{
