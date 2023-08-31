@@ -75,6 +75,12 @@ const skills = [
     {
         name: "Graphic Design",
     },
+    {
+        name: "Code Review",
+    },
+    {
+        name: "Code Versioning",
+    },
 ];
 
 const dataportfolio = [{
