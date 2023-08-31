@@ -45,11 +45,11 @@ const skills = [{
     },
     
     {
-        name: "C",
+        name: "C++",
     },
     
     {
-        name: "Java",
+        name: "JavaScript",
     },
     
     {
@@ -57,7 +57,7 @@ const skills = [{
     },
 
     {
-        name: "Powershell",
+        name: "React/React Native",
     },
 
     {
@@ -147,7 +147,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
+    github: "https://github.com/Aquarius-blake",
     linkedin: "https://linkedin.com/",
 };
 export {
