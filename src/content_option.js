@@ -61,7 +61,7 @@ const skills = [{
     },
 
     {
-        name: "Reverse Engineering",
+        name: "Firebase",
     },
 
     {
