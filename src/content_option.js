@@ -74,7 +74,7 @@ const skills = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://raw.githubusercontent.com/Aquarius-blake/Images/main/Portfolio/signin%20copy1.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
