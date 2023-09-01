@@ -115,7 +115,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber.",
         link: "#",
     },
     {
