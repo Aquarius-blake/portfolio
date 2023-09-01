@@ -85,6 +85,12 @@ const skills = [
     },
 ];
 
+const tools =[
+    {
+        name: "Visual Studio Code",
+    }
+];
+
 const dataportfolio = [{
         img: "https://raw.githubusercontent.com/Aquarius-blake/Images/main/Portfolio/signin%20copy1.png",
         description: "The Hive is a social media app project making use of a Firebase back-end and Flutter front-end UI. Both group and private chats employ end-to-end encryption. The goal of this project is to oﬀer a social platform that can be completely customized while maintaining its simplicity and security. Along with the traditional bright and dark theme, we intend to provide user- customizable themes",
@@ -168,6 +174,7 @@ export {
     dataportfolio,
     worktimeline,
     skills,
+    tools,
     introdata,
     contactConfig,
     socialprofils,

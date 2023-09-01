@@ -7,6 +7,7 @@ import {
   meta,
   worktimeline,
   skills,
+  tools,
 } from "../../content_option";
 
 export const About = () => {
@@ -65,6 +66,24 @@ export const About = () => {
                   <Card className="skill-card">
                     <Card.Body>
                       <h3 className="card-title">{skills.name}</h3>
+                    </Card.Body>
+                  </Card>
+                </div>
+              );
+            })}
+          </Col>
+        </Row>
+        <Row className="sec_sp">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Tools</h3>
+          </Col>
+          <Col lg="7" className="grid-container">
+            {tools.map((tools, i) => {
+              return (
+                <div key={i}>
+                  <Card className="skill-card">
+                    <Card.Body>
+                      <h3 className="card-title">{tools.name}</h3>
                     </Card.Body>
                   </Card>
                 </div>
