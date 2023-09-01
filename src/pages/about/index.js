@@ -81,7 +81,7 @@ export const About = () => {
             {tools.map((tools, i) => {
               return (
                 <div key={i}>
-                  <Card className="skill-card">
+                  <Card className="tool-card">
                     <Card.Body>
                       <h3 className="card-title">{tools.name}</h3>
                     </Card.Body>

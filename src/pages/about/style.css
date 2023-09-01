@@ -107,4 +107,31 @@
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adjust the minmax width as needed */
     gap: 10px; /* Add some gap between the cards */
   }
+  .tool-card {
+    width: 150px; /* Adjust the width based on your desired size */
+    height: 80px; /* Set a fixed height to make all cards the same size */
+    margin: 10px; /* Add some margin between the cards */
+    border: 1px solid #00000000;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(5, 241, 210, 0.863);
+    padding: 15px;
+    background-color: rgba(5, 241, 210, 0.863);
+    position: relative; /* Add relative positioning for the shadow illusion */
+    transform: perspective(1px) translateZ(0); /* Add transform for hovering effect */
+    transition: transform 0.3s ease; /* Add transition for smooth animation */
   
+    display: flex; /* Use flex to align items */
+    flex-direction: column; /* Align items vertically */
+    justify-content: center; /* Center items vertically */
+    align-items: center; /* Center items horizontally */
+  
+    /* Additional styling for the text */
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+  .tool-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(5, 241, 210, 0.863);
+}  
