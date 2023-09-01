@@ -43,13 +43,23 @@ export const About = () => {
             <table className="table caption-top">
               <tbody>
                 {worktimeline.map((data, i) => {
-                  return (
-                    <tr key={i}>
-                      <th scope="row">{data.jobtitle}</th>
-                      <td>{data.where}</td>
-                      <td>{data.date}</td>
-                    </tr>
-                  );
+                  if(i===0){
+                    return (
+                      <tr key={i}>
+                        <th scope="row">{data.jobtitle}</th>
+                        <th>{data.where}</th>
+                        <th>{data.date}</th>
+                      </tr>
+                    );
+                  }else{
+                    return (
+                      <tr key={i}>
+                        <td >{data.jobtitle}</td>
+                        <td>{data.where}</td>
+                        <td>{data.date}</td>
+                      </tr>
+                    );
+                  }
                 })}
               </tbody>
             </table>

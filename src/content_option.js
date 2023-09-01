@@ -62,7 +62,10 @@ const skills = [
     {
         name: "React/React Native",
     },
-
+    
+    {
+        name: "Redux",
+    },
 
     {
         name: "Software Customization",
