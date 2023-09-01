@@ -120,48 +120,48 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "A good programmer is someone who always looks both ways before crossing a one-way street – Doug Linder",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "I don’t care if it works on your machine! We are not shipping your machine – Vidiu Platon.",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "People don’t care about what you say, they care about what you build – Mark Zuckerberg.",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "There is a big difference between making a simple product & making a product simple – Des Traynor",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Experience is the name everyone gives to their mistakes – Oscar Wilde",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Testing can only prove the presence of bugs, not their absence – Edsger W. Dijkstra",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Making code does what it’s supposed to do is the easy part. Handling the myriad ways it can go wrong is the real work – Aaron Lozier",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "It is far, far easier to make a correct program fast than to make a fast program correct – Herb Sutter",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "You never finish a program, you just stop working on it. - Anonymous",
         link: "#",
     },
 ];
