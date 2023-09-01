@@ -151,7 +151,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
-        description: "Making code does what it’s supposed to do is the easy part. Handling the myriad ways it can go wrong is the real work – Aaron Lozier",
+        description: "Making code do what it’s supposed to do is the easy part. Handling the myriad ways it can go wrong is the real work – Aaron Lozier",
         link: "#",
     },
     {
