@@ -10,8 +10,8 @@ const introdata = {
         first: "A Technologist",
         second: "A Visionary",
         third: "A Data Analyst",
-        fourth: "A Programmer",
-        fifth: "A Software Developer",
+        fourth: "A Software Developer",
+        fifth: "A Web Developer",
         sixth: "And many more...",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
