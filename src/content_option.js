@@ -63,9 +63,6 @@ const skills = [
         name: "React/React Native",
     },
 
-    {
-        name: "Firebase",
-    },
 
     {
         name: "Software Customization",
@@ -88,7 +85,19 @@ const skills = [
 const tools =[
     {
         name: "Visual Studio Code",
-    }
+    },
+    {
+        name: "Firebase",
+    },
+    {
+        name: "Android Studio",
+    },
+    {
+        name: "Visual Studio",
+    }, 
+    {
+        name: "Git/Github",
+    },
 ];
 
 const dataportfolio = [{
