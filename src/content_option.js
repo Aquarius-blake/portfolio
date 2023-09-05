@@ -8,7 +8,7 @@ const introdata = {
     title: "Hi, I'm Aquarius Blake",
     animated: {
         first: "A Technologist",
-        second: "A Visionary",
+        second: "A Mobile App Developer",
         third: "A Data Analyst",
         fourth: "A Software Developer",
         fifth: "A Web Developer",
