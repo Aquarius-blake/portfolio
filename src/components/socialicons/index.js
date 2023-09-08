@@ -35,14 +35,14 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.linkedin && (
+        { socialprofils.linkedin && (
           <li>
             <a href={socialprofils.linkedin}>
               <FaLinkedin />
             </a>
           </li>
         )}
-        {socialprofils.youtube && (
+        { socialprofils.youtube && (
           <li>
             <a href={socialprofils.youtube}>
               <FaYoutube />
