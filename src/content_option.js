@@ -21,7 +21,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "I am a detail-oriented and adaptive team player with strong organizational skills. I have the ability to handle multiple projects with a high degree of accuracy. I am a self-motivated individual seeking a Full-time/Part-time position that oﬀers professional challenges utilizing problem-solving skills. I have the willingness to take on added responsibilities and also learn on the job to meet team goals.",
+    aboutme: "I am a detail-oriented and adaptive team player with strong organizational skills. I have the ability to handle multiple projects with a high degree of accuracy. I am a self-motivated individual whose problem-solving skill is utilized with any least opportunity. Although I am a detail-oriented individual, meeting set targets under pressure is my priority. I have the willingness to take on added responsibilities and also learn on the job to meet team goals.",
 };
 const worktimeline = [
     {
