@@ -101,6 +101,9 @@ const tools =[
     {
         name: "Git/Github",
     },
+    {
+        name: "Adobe Photoshop",
+    },
 ];
 
 const dataportfolio = [{
