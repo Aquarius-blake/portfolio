@@ -104,6 +104,9 @@ const tools =[
     {
         name: "Adobe Photoshop",
     },
+    {
+        name: "Pycharm",
+    },
 ];
 
 const dataportfolio = [{
