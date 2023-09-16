@@ -5,6 +5,7 @@ const meta = {
 };
 
 const introdata = {
+    
     title: "Hi, I'm Aquarius Blake",
     animated: {
         first: "A Technologist",
