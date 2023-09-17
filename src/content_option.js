@@ -1,11 +1,13 @@
 const logotext = "B-Tech";
 const meta = {
+
     title: "Aquarius Blake",
     description: "I'm Aquarius Blake, a technologist and software engineering enthuist.",
+    
 };
 
 const introdata = {
-    
+
     title: "Hi, I'm Aquarius Blake",
     animated: {
         first: "A Technologist",
