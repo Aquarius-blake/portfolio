@@ -12,9 +12,9 @@ const introdata = {
     animated: {
         first: "A Technologist",
         second: "A Mobile App Developer",
-        third: "A Data Analyst",
+        third: "A Web Developer",
         fourth: "A Software Developer",
-        fifth: "A Web Developer",
+        fifth: "A Data Analyst",
         sixth: "And many more...",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
