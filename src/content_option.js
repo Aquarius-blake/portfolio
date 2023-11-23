@@ -38,7 +38,7 @@ const worktimeline = [
         date: "2022-2023",
     },
     {
-        jobtitle: "Software Intern",
+        jobtitle: "Software Development Intern",
         where: "BData Systems",
         date: "2021",
     },
@@ -109,6 +109,9 @@ const tools =[
     },
     {
         name: "Pycharm",
+    },
+    {
+        name: "Vercel",
     },
 ];
 
