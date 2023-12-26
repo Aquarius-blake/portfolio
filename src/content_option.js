@@ -33,9 +33,14 @@ const worktimeline = [
         date: "Year",
     },
     {
+        jobtitle: "Software Engineer",
+        where: "Bisa Technologies",
+        date: "2023 - Present",
+    },
+    {
         jobtitle: "National Service Personnel",
         where: "Ministry of Energy",
-        date: "2022-2023",
+        date: "2022 - 2023",
     },
     {
         jobtitle: "Software Development Intern",
