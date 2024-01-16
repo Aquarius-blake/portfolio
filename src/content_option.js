@@ -76,6 +76,10 @@ const skills = [
     },
 
     {
+        name: "GraphQl",
+    },
+
+    {
         name: "Software Customization",
     },
 
