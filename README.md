@@ -32,7 +32,7 @@ To set up a local copy of my portfolio website, follow these steps:
 
 ## Usage
 
-Feel free to customize the content to better represent my projects, skills, and experiences. You can modify the `src/components` and `src/content options.js` directories to update sections such as projects, skills, and about information.
+Feel free to customize the content to better represent my projects, skills, and experiences. You can modify the `src/components` and `src/content_options.js` directories to update sections such as projects, skills, and about information.
 
 ## Contributing
 
