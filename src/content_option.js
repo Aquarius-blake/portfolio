@@ -11,14 +11,14 @@ const introdata = {
     title: "Hi, I'm Aquarius Blake",
     animated: {
         first: "A Technologist",
-        second: "A Mobile App Developer",
+        second: "A Mobile App Engineer",
         third: "A Web Developer",
-        fourth: "A Software Developer",
+        fourth: "A Software Engineer",
         fifth: "A Data Analyst",
         sixth: "And many more...",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    description: "A dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
     your_img_url: "https://raw.githubusercontent.com/Aquarius-blake/Images/main/Portfolio/portfolio.png",
 };
 
@@ -38,7 +38,7 @@ const worktimeline = [
         date: "2023 - Present",
     },
     {
-        jobtitle: "National Service Personnel",
+        jobtitle: "Assistant Human Resource Officer",
         where: "Ministry of Energy",
         date: "2022 - 2023",
     },
@@ -121,6 +121,12 @@ const tools =[
     },
     {
         name: "Vercel",
+    },
+    {
+        name: "ChatGPT",
+    },
+    {
+        name: "Prodia",
     },
 ];
 
