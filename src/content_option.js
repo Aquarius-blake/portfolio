@@ -141,9 +141,9 @@ const dataportfolio = [{
         link: "https://play.google.com/store/apps/details?id=gh.bisa.apn",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/ORACLEPNG.png?raw=true",
         description: "Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber.",
-        link: "#",
+        link: "https://play.google.com/store/apps/details?id=com.bis.oracle",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
