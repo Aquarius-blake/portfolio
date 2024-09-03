@@ -146,9 +146,9 @@ const dataportfolio = [{
         link: "https://play.google.com/store/apps/details?id=com.bis.oracle",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/bli_logo_bg.png?raw=true",
         description: "A good programmer is someone who always looks both ways before crossing a one-way street – Doug Linder",
-        link: "#",
+        link: "https://play.google.com/store/apps/details?id=com.bisa.bliapp",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
