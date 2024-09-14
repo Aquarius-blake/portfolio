@@ -54,7 +54,9 @@ const skills = [
     {
         name: "Python",
     },
-    
+    {
+        name: "Flask",
+    },
     {
         name: "C++",
     },
@@ -114,6 +116,9 @@ const tools =[
         name: "Git/Github",
     },
     {
+        name: "REST APIs",
+    },
+    {
         name: "Adobe Photoshop",
     },
     {
@@ -127,6 +132,9 @@ const tools =[
     },
     {
         name: "Prodia",
+    },
+    {
+        name: "Docker",
     },
 ];
 

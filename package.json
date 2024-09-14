@@ -12,6 +12,7 @@
         "react-dom": "^18.2.0",
         "react-helmet-async": "^1.0.7",
         "react-icons": "^4.1.0",
+        "react-portfolio": "file:",
         "react-router-dom": "^6.6.2",
         "react-scripts": "^5.0.1",
         "react-transition-group": "^4.4.2",
