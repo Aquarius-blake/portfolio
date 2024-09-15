@@ -54,6 +54,7 @@ const skills = [
     {
         name: "Python",
     },
+    
     {
         name: "Flask",
     },
