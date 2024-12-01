@@ -5,6 +5,17 @@ import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../content_option";
 
 export const Portfolio = () => {
+  const getDynamicLink = (data) => {
+    const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+    // Check for iOS
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+      return data.ios; // Replace with your Apple Store link
+    }
+
+    // Default to Google Play Store
+    return data.link; // Replace with your Google Play Store link
+  };
   return (
     <HelmetProvider>
       <Container className="About-header">
@@ -26,7 +37,7 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={getDynamicLink(data)}>view project</a>
                 </div>
               </div>
             );

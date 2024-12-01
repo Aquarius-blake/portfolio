@@ -98,6 +98,12 @@ const skills = [
     {
         name: "Code Versioning",
     },
+    {
+        name: "AI Development",
+    },
+    {
+        name: "AI Model Training",
+    },
 ];
 
 const tools =[
@@ -143,62 +149,74 @@ const dataportfolio = [{
         img: "https://raw.githubusercontent.com/Aquarius-blake/Images/main/Portfolio/signin%20copy1.png",
         description: "The Hive is a social media app project making use of a Firebase back-end and Flutter front-end UI. Both group and private chats employ end-to-end encryption. The goal of this project is to oﬀer a social platform that can be completely customized while maintaining its simplicity and security. Along with the traditional bright and dark theme, we intend to provide user- customizable themes",
         link: "https://github.com/Aquarius-blake/The_Hive",
+        ios:"#"
     },
     {
         img: "https://github.com/Aquarius-blake/Images/blob/main/APN/apni.png?raw=true",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://play.google.com/store/apps/details?id=gh.bisa.apn",
+        ios:"https://apps.apple.com/us/app/apn-app/id6476494247"
     },
     {
         img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/ORACLEPNG.png?raw=true",
         description: "Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber.",
         link: "https://play.google.com/store/apps/details?id=com.bis.oracle",
+        ios:"https://apps.apple.com/us/app/the-oracle-app/id6502834237?platform=iphone"
     },
     {
         img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/bli_logo_bg.png?raw=true",
         description: "A good programmer is someone who always looks both ways before crossing a one-way street – Doug Linder",
         link: "https://play.google.com/store/apps/details?id=com.bisa.bliapp",
+        ios:"https://apps.apple.com/us/app/tv-bli/id1571759638"
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://github.com/Aquarius-blake/Images/blob/main/Tech%20in%20Ghana/LOGO.jpg?raw=true",
         description: "I don’t care if it works on your machine! We are not shipping your machine – Vidiu Platon.",
-        link: "#",
+        link: "https://play.google.com/store/apps/details?id=com.bisa.techinghana",
+        ios:"https://apps.apple.com/us/app/tech-in-ghana-conference/id6730111171"
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
         description: "People don’t care about what you say, they care about what you build – Mark Zuckerberg.",
         link: "#",
+        ios:"#"
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
         description: "There is a big difference between making a simple product & making a product simple – Des Traynor",
         link: "#",
+        ios:"#"
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "Experience is the name everyone gives to their mistakes – Oscar Wilde",
         link: "#",
+        ios:"#"
     },
     {
         img: "https://picsum.photos/400/?grayscale",
         description: "Testing can only prove the presence of bugs, not their absence – Edsger W. Dijkstra",
         link: "#",
+        ios:"#"
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
         description: "Making code do what it’s supposed to do is the easy part. Handling the myriad ways it can go wrong is the real work – Aaron Lozier",
         link: "#",
+        ios:"#"
     },
     {
         img: "https://picsum.photos/400/?grayscale",
         description: "It is far, far easier to make a correct program fast than to make a fast program correct – Herb Sutter",
         link: "#",
+        ios:"#"
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
         description: "You never finish a program, you just stop working on it. - Anonymous",
         link: "#",
+        ios:"#"
     },
 ];
 
