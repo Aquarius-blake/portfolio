@@ -222,7 +222,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "blakeind72@gmail.com",
-    description: "Looking forward to hearing from you!",
+    description: "Looking forward to hearing from you soon!",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_5v3if9p",
