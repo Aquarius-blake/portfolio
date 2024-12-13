@@ -170,7 +170,7 @@ const dataportfolio = [{
         ios:"https://apps.apple.com/us/app/tv-bli/id1571759638"
     },
     {
-        img: "https://github.com/Aquarius-blake/Images/blob/main/Tech%20in%20Ghana/LOGO.jpg?raw=true",
+        img: "https://github.com/Aquarius-blake/Images/blob/main/Tech%20in%20Ghana/tech.png?raw=true",
         description: "I don’t care if it works on your machine! We are not shipping your machine – Vidiu Platon.",
         link: "https://play.google.com/store/apps/details?id=com.bisa.techinghana",
         ios:"https://apps.apple.com/us/app/tech-in-ghana-conference/id6730111171"
