@@ -220,6 +220,93 @@ const dataportfolio = [{
     },
 ];
 
+const datasponsors = [{
+    img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/portfolio.png?raw=true",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "https://github.com/Aquarius-blake/The_Hive",
+    ios:"#",
+    name:"Aquarius Blake"
+},
+{
+    img: "https://picsum.photos/400/500/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "https://play.google.com/store/apps/details?id=gh.bisa.apn",
+    ios:"https://apps.apple.com/us/app/apn-app/id6476494247",
+    name:""
+},
+{
+    img: "https://picsum.photos/350/400/?grayscale",
+    description: "Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber.",
+    link: "https://play.google.com/store/apps/details?id=com.bis.oracle",
+    ios:"https://apps.apple.com/us/app/the-oracle-app/id6502834237?platform=iphone",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/640/?grayscale",
+    description: "A good programmer is someone who always looks both ways before crossing a one-way street – Doug Linder",
+    link: "https://play.google.com/store/apps/details?id=com.bisa.bliapp",
+    ios:"https://apps.apple.com/us/app/tv-bli/id1571759638",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/450/?grayscale",
+    description: "I don’t care if it works on your machine! We are not shipping your machine – Vidiu Platon.",
+    link: "https://play.google.com/store/apps/details?id=com.bisa.techinghana",
+    ios:"https://apps.apple.com/us/app/tech-in-ghana-conference/id6730111171",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "People don’t care about what you say, they care about what you build – Mark Zuckerberg.",
+    link: "#",
+    ios:"#",
+    name:""
+},
+
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "There is a big difference between making a simple product & making a product simple – Des Traynor",
+    link: "#",
+    ios:"#",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "Experience is the name everyone gives to their mistakes – Oscar Wilde",
+    link: "#",
+    ios:"#",
+    name:""
+},
+{
+    img: "https://picsum.photos/530/450/?grayscale",
+    description: "Testing can only prove the presence of bugs, not their absence – Edsger W. Dijkstra",
+    link: "#",
+    ios:"#",
+    name:""
+},
+{
+    img: "https://picsum.photos/600/450/?grayscale",
+    description: "Making code do what it’s supposed to do is the easy part. Handling the myriad ways it can go wrong is the real work – Aaron Lozier",
+    link: "#",
+    ios:"#",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "It is far, far easier to make a correct program fast than to make a fast program correct – Herb Sutter",
+    link: "#",
+    ios:"#",
+    name:""
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "You never finish a program, you just stop working on it. - Anonymous",
+    link: "#",
+    ios:"#",
+    name:""
+},
+];
+
 const contactConfig = {
     YOUR_EMAIL: "blakeind72@gmail.com",
     description: "Looking forward to hearing from you!",
@@ -238,6 +325,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    datasponsors,
     worktimeline,
     skills,
     tools,

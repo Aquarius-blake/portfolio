@@ -67,6 +67,16 @@ export const Home = () => {
                     </div>
                   </Link>
                 </div>
+                <div className="intro_btn-action pb-5">
+                <Link to="/sponsors">
+                    <div id="button_h" className="ac_btn btn">
+                      Sponsors
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </Link>
+                </div>
               </div>
             </div>
           </div>

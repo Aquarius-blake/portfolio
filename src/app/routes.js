@@ -5,6 +5,7 @@ import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
 import { ContactUs } from "../pages/contact";
 import { About } from "../pages/about";
+import { Sponsor } from "../pages/sponsors";
 import { Socialicons } from "../components/socialicons";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 
@@ -25,6 +26,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
+        <Route path="/sponsors" element={<Sponsor />} />
       </Routes>
     </CSSTransition>
   </TransitionGroup>

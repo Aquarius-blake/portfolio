@@ -58,6 +58,7 @@ a:hover {
 
 p {
     word-break: break-word;
+    -webkit-hyphens: auto;
     hyphens: auto;
 }
 

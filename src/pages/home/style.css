@@ -234,6 +234,7 @@ section {
 }
 
 .typewriter-text {
-    color: rgb(32, 236, 83);
+    /* color: rgb(32, 236, 83); */
+    color: rgba(5, 241, 210, 0.863)
 }
   
