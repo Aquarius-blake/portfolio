@@ -179,7 +179,7 @@ const dataportfolio = [{
         img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/vision.png?raw=true",
         description: "People don’t care about what you say, they care about what you build – Mark Zuckerberg.",
         link: "https://website-phi-lilac.vercel.app/product/ai_vision",
-        ios:"#"
+        ios:"https://website-phi-lilac.vercel.app/product/ai_vision"
     },
 
     {
