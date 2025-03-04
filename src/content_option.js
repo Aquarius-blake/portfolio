@@ -176,9 +176,9 @@ const dataportfolio = [{
         ios:"https://apps.apple.com/us/app/tech-in-ghana-conference/id6730111171"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://github.com/Aquarius-blake/Images/blob/main/Portfolio/vision.png?raw=true",
         description: "People don’t care about what you say, they care about what you build – Mark Zuckerberg.",
-        link: "#",
+        link: "https://website-phi-lilac.vercel.app/product/ai_vision",
         ios:"#"
     },
 
