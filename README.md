@@ -11,7 +11,7 @@ Welcome to my React portfolio website repository! This project showcases my work
 - **Project Showcase**: Displaying my projects with descriptions and links.
 - **Skills Section**: Highlighting my skills and expertise.
 - **Contact Form**: Providing an easy way for visitors to get in touch with me.
-- **About Section**: Introducing myself to visitors.
+- **About Section**: Introducing myself to visitors and potential sponsors.
 
 ## Technologies Used
 
