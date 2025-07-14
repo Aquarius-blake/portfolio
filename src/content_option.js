@@ -65,7 +65,9 @@ const skills = [
     {
         name: "JavaScript",
     },
-    
+    {
+        name: "Node.js",
+    },
     {
         name: "Dart/Flutter",
     },
