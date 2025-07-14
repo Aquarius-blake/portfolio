@@ -216,7 +216,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "You never finish a program, you just stop working on it. - Anonymous",
+        description: "You never finish a program, you just stop working on it. -  Anonymous",
         link: "#",
         ios:"#"
     },
