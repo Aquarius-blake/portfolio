@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: EIENNINCD7MQ5JEHOSI16MH5VXJZZYT2 -->
 
 Live Link To Site; https://aquarius-blake.github.io/portfolio/
 
