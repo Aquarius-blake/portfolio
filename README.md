@@ -1,5 +1,10 @@
 <!-- GitAds-Verify: EIENNINCD7MQ5JEHOSI16MH5VXJZZYT2 -->
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=aquarius-blake/portfolio@github)](https://gitads.dev/v1/ad-track?source=aquarius-blake/portfolio@github)
+
+
+
 Live Link To Site; https://aquarius-blake.github.io/portfolio/
 
 # My Portfolio Website
