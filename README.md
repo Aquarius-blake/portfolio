@@ -1,3 +1,9 @@
+<!-- GitAds-Verify: EIENNINCD7MQ5JEHOSI16MH5VXJZZYT2 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=aquarius-blake/portfolio@github)](https://gitads.dev/v1/ad-track?source=aquarius-blake/portfolio@github)
+
+
 
 Live Link To Site; https://aquarius-blake.github.io/portfolio/
 
@@ -24,7 +30,7 @@ Welcome to my React portfolio website repository! This project showcases my work
 
 To set up a local copy of my portfolio website, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/react-portfolio.git`
+1. Clone this repository: `git clone https://github.com/Aquarius-blake/portfolio.git`
 2. Navigate to the project directory: `cd react-portfolio`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
